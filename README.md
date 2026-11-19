@@ -59,13 +59,13 @@ Setup instructions will be added once stage 1 is complete.
 
 ## Articles
 
-1. [What really happens after you click Pay? Building PayFlow to find out](ADD-ARTICLE-LINK)
+1. [What really happens after you click Pay? Building PayFlow to find out](https://www.linkedin.com/pulse/what-really-happens-after-you-click-pay-building-payflow-durgesh-more-ycn1c)
 
 ## Author
 
 **[Durgesh More]**, software developer working with Java, Spring Boot and React.
 
-- LinkedIn: [](www.linkedin.com/in/durgesh-more)
+- LinkedIn: [ADD-LINKEDIN-LINK](www.linkedin.com/in/durgesh-more)
 - Email: durgeshmore809@gmail.com
 
 If you're building a product and need help with an MVP, a backend or REST API, or a payment integration, feel free to reach out.
