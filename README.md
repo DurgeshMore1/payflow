@@ -65,8 +65,8 @@ Setup instructions will be added once stage 1 is complete.
 
 **[Durgesh More]**, software developer working with Java, Spring Boot and React.
 
-- LinkedIn: [ADD-LINKEDIN-LINK](ADD-LINKEDIN-LINK)
-- Email: [ADD-EMAIL]
+- LinkedIn: [](www.linkedin.com/in/durgesh-more)
+- Email: durgeshmore809@gmail.com
 
 If you're building a product and need help with an MVP, a backend or REST API, or a payment integration, feel free to reach out.
 
