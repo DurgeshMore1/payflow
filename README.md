@@ -63,7 +63,7 @@ Setup instructions will be added once stage 1 is complete.
 
 ## Author
 
-**[Your Name]**, software developer working with Java, Spring Boot and React.
+**[Durgesh More]**, software developer working with Java, Spring Boot and React.
 
 - LinkedIn: [ADD-LINKEDIN-LINK](ADD-LINKEDIN-LINK)
 - Email: [ADD-EMAIL]
